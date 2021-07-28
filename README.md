@@ -20,8 +20,8 @@ You can click the Preview link to take a look at your changes.
 [<img align="left" alt="arduino" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tailwindcss.svg" />][webdevplaylist]
 [<img align="left" alt="python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />][webdevplaylist]
 [<img align="left" alt="js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" />][webdevplaylist]
-[<img align="left" alt="flask" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/flask.svg" />][webdevplaylist]
-
+[<img align="left" alt="flask" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/flask/flask.svg" />][webdevplaylist]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 
 
 <br />
