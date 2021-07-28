@@ -14,12 +14,12 @@ You can click the Preview link to take a look at your changes.
 
 ### Languages and Tools:
 
-[<img align="left" alt="Sublime" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/sublimetext.svg"/>]
+[<img align="left" alt="Sublime" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/sublimetext.js"/>]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="tailwind" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tailwindcss.svg" />]
-[<img align="left" alt="arduino" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tailwindcss.svg" />]
-[<img align="left" alt="python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />]
-[<img align="left" alt="js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" />]
+[<img align="left" alt="tailwind" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tailwindcss.js" />]
+[<img align="left" alt="arduino" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tailwindcss.js" />]
+[<img align="left" alt="python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.js" />]
+[<img align="left" alt="js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.js" />]
 [<img align="left" alt="flask" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/flask.js" />]
 
 
